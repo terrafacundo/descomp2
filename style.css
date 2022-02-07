@@ -1,0 +1,8 @@
+.ajuste{
+    transform: scale(0.25,0.25);
+}
+
+.navBar{
+    background-color: aquamarine;
+    height: 15vh;
+}
