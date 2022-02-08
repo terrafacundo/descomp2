@@ -1,8 +1,14 @@
-.ajuste{
-    transform: scale(0.25,0.25);
+/*css del navbar*/
+.fondoNav{
+    background-color: #007894;
+}
+.logo{
+    width:200px;
+    height: auto;
 }
 
-.navBar{
-    background-color: aquamarine;
-    height: 15vh;
+
+.espaciado{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
