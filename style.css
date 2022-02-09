@@ -12,3 +12,57 @@
     margin-top: 5vh;
     margin-bottom: 5vh;
 }
+
+
+
+
+
+/*Esitlos de personas*/
+
+.padrePaquetes{
+    margin-top: 10vh;
+    margin-bottom:10vh;
+
+}
+
+.paquetes{
+    margin-left: 5vw;
+}
+
+.hijoPaquetes{
+    border: 1px solid #eee;
+    margin-right: 5vw;
+}
+
+.advert{
+    background-color: #eee;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*Pagina empresas*/
+.espCont{
+    margin-top: 10vh;
+}
+/*
+.espCaro{
+    margin-right: 10vw;
+}
+*/
+
+
+/*Institucional*/
+.organizacionMain{
+    margin-top: 10vh;
+}
+
+
+.bloquePrinci{
+}
+
+.textoFinal{
+    color:#007894;
+}
